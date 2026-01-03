@@ -67,9 +67,7 @@ I enjoy turning ideas into efficient, visually appealing, and user-friendly solu
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
-   
 2. Open the project folder
-
 3. Run index.html in your browser
 
 No backend, no dependencies — simple and lightweight.
