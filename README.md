@@ -23,7 +23,7 @@ I enjoy turning ideas into efficient, visually appealing, and user-friendly solu
 - Circular professional skill indicators
 - Filterable projects gallery using MixItUp
 - Modern UI with custom CSS animations & SVG blob
-- Clean and organized section-based layout
+- Clean and organized section-based layout.
 
 ---
 
