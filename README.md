@@ -70,8 +70,6 @@ I enjoy turning ideas into efficient, visually appealing, and user-friendly solu
 2. Open the project folder
 3. Run index.html in your browser
 
-No backend, no dependencies — simple and lightweight.
-
 
 ## 📸 Screenshots
 
