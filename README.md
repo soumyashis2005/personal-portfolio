@@ -64,11 +64,11 @@ I enjoy turning ideas into efficient, visually appealing, and user-friendly solu
 
 ## ⚙️ How to Run the Project Locally
 
-1. Clone the repository  
+1. Clone the repository. 
    ```bash
    git clone https://github.com/soumyashis2005/personal-portfolio.git
-2. Open the project folder
-3. Run index.html in your browser
+2. Open the project folder.
+3. Run index.html in your browser.
 
 
 ## 📸 Screenshots
