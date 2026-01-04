@@ -442,6 +442,14 @@ section {
     align-items: center;      
     justify-content: center;
     min-height: 320px;
+
+    border: 2px solid var(--hover-color);
+    box-shadow: var(--neon-box-shadow);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.education .service-box:hover {
+    transform: translateY(-10px);
 }
 
 /* School logo styling */
@@ -524,6 +532,14 @@ section {
     background: var(--bg-color);
     transition: transform .4s;
     border-radius: 10px;
+
+    border: 2px solid var(--hover-color);
+    box-shadow: var(--neon-box-shadow);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.services .service-box:hover {
+    transform: translateY(-10px);
 }
 
 .service-btn {
